@@ -1,0 +1,12 @@
+#userIn {
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid #10abff;
+    margin-top: 10px;
+    transition-duration: 0.3s;
+}
+
+#userIn:hover{
+    background: linear-gradient(21deg, #10abff, #1beabd);
+    color: white;
+}
